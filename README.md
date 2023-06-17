@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/birhannega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="birhannega" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/4479101/birhan-nega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/4479101/birhan-nega" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4479101/birhan-nega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4479101/birhan-nega" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/birhan_nega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="birhan_nega" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/birhan_nega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="birhan_nega" height="30" width="40" /></a>
 </p>
